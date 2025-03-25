@@ -1,0 +1,3 @@
+hello, this is documentation on the project im currently working on
+basically to describe the process, i would like to tell you a bit more about the background
+it all started a while ago...
